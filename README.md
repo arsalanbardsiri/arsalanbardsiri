@@ -9,7 +9,7 @@
         Right now I am voyaging in the ocean of web development, and enjoying the journey!<br>
         Open to collaborating since I am a Master in being a Student.<br>
     </i><br>
-    <a href="[https://www.linkedin.com/in/arsalan-bardsiri](https://www.linkedin.com/in/arsalan-bardsiri/)">
+    <a href="https://www.linkedin.com/in/arsalan-bardsiri">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 <!--     </a>
     <a href="https://www.kaggle.com/wervlad">
