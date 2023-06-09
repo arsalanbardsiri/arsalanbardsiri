@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, guys! <img src="https://github.com/arsalanbardsiri/arsalanbardsiri/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="[https://github.com/arsalanbardsiri/arsalanbardsiri/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d](https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif)" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome!</b><br><br>
