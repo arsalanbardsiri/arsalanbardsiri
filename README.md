@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, guys! <img src="[https://github.com/arsalanbardsiri/arsalanbardsiri/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d](https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif)" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://github.com/arsalanbardsiri/arsalanbardsiri/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome!</b><br><br>
@@ -24,10 +24,10 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![HTML](https://img.shields.io/badge/hmtl-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/arsalanbardsiri)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
+[![HTML](https://img.shields.io/badge/hmtl-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
   
 
   <!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
