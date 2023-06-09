@@ -56,7 +56,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/arsalanbardsiri)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/arsalanbardsiri)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/arsalanbardsiri)
+<!-- [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/arsalanbardsiri) -->
 
 <details>
 <p align="center">
