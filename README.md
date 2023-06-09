@@ -26,8 +26,8 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/arsalanbardsiri)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
-[![HTML](https://img.shields.io/badge/hmtl-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
+[![HTML](https://img.shields.io/badge/hmtl-black?style=for-the-badge&logo=hmtl)](https://github.com/arsalanbardsiri)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/arsalanbardsiri)
   
 
   <!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
