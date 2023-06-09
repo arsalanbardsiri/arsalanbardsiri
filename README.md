@@ -77,7 +77,9 @@
 
 <p align="center">
   <a href="https://github.com/arsalanbardsiri">
-    <img src="https://komarev.com/ghpvc/?username=arsalanbardsiri&color=grey&style=flat&theme=react)" />
+<!--     <img src="https://komarev.com/ghpvc/?username=arsalanbardsiri&color=grey&style=flat&theme=react)" /> -->
+    <img src="https://komarev.com/ghpvc/?username=arsalanbardsiri&theme=react)" />
+      
   </a>
 </p>
 <!--
