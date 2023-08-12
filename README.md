@@ -26,7 +26,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/arsalanbardsiri)
 
 
-<details>
+<!-- <details> -->
 <p align="center">
   <a href="https://github.com/arsalanbardsiri">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsalanbardsiri&theme=react" />
@@ -38,7 +38,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsalanbardsiri&theme=react" />
   </a>
 </p>
-</details>
+<!-- </details> -->
 
 <p align="center">
   <a href="https://github.com/arsalanbardsiri">
