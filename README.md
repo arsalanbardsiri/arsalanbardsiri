@@ -15,6 +15,7 @@
 
 ### Tech Stack
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/arsalanbardsiri)
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://github.com/arsalanbardsiri)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/arsalanbardsiri)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://github.com/arsalanbardsiri)
