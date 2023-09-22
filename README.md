@@ -11,7 +11,7 @@
     </i><br>
     <i>
         Driven Web Developer with hands-on experience in both back-end and front-end technologies, including Node, Express.js, and HTML. Adept at creating and integrating APIs, utilizing promises, and, implementing responsive designs using CSS frameworks. Proven track record in transitioning from a retail setting to tech, combining technical expertise with exceptional customer-centric skills.
-    </i><br
+    </i><br>
     <a href="https://www.linkedin.com/in/arsalan-bardsiri">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </p>
