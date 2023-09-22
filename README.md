@@ -23,7 +23,8 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/arsalanbardsiri)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://github.com/arsalanbardsiri)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://github.com/arsalanbardsiri)
-  
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/arsalanbardsiri)
+
 
 
 ### OS
