@@ -10,10 +10,11 @@
         Open to collaborating since I am a Master in being a Student.<br>
     </i><br>
     <i>
-        Driven Web Developer with hands-on experience in both back-end and front-end technologies, including Node, Express.js, and HTML. Adept at creating and integrating APIs, utilizing promises, and, implementing responsive designs using CSS frameworks. Proven track record in transitioning from a retail setting to tech, combining technical expertise with exceptional customer-centric skills.
+        Driven Web Developer with hands-on experience in both back-end and front-end technologies, including Node, Express.js, and HTML. Adept at creating and integrating APIs, utilizing promises, and implementing responsive designs using CSS frameworks. Proven track record in transitioning from a retail setting to tech, combining technical expertise with exceptional customer-centric skills.
     </i><br>
     <a href="https://www.linkedin.com/in/arsalan-bardsiri">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 </p>
 
 ### Tech Stack
@@ -25,15 +26,12 @@
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://github.com/arsalanbardsiri)
 [![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/arsalanbardsiri)
 
-
-
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/arsalanbardsiri)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/arsalanbardsiri)
 [![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)](https://github.com/arsalanbardsiri)
 
-
-
+### 📈 GitHub Statistics
 <p align="center">
   <a href="https://github.com/arsalanbardsiri">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsalanbardsiri&theme=react" />
@@ -46,11 +44,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/arsalanbardsiri">
-    <img src="https://komarev.com/ghpvc/?username=arsalanbardsiri&theme=react)" />
-      
+    <img src="https://komarev.com/ghpvc/?username=arsalanbardsiri&theme=react)" />   
   </a>
 </p>
 
