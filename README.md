@@ -25,6 +25,10 @@
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://github.com/arsalanbardsiri)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://github.com/arsalanbardsiri)
 [![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/arsalanbardsiri)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?style=for-the-badge&logo=apollographql)](https://github.com/arsalanbardsiri)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/arsalanbardsiri)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/arsalanbardsiri)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/arsalanbardsiri)
