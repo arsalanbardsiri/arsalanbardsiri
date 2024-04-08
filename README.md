@@ -28,6 +28,8 @@
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?style=for-the-badge&logo=apollographql)](https://github.com/arsalanbardsiri)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/arsalanbardsiri)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/arsalanbardsiri)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/arsalanbardsiri)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/arsalanbardsiri)
 
 
 ### OS
