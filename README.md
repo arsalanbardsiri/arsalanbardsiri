@@ -6,8 +6,8 @@
     <b>Welcome!</b><br><br>
     <i>
         I'm Arsalan.<br>
-        Right now I am voyaging in the ocean of web development, and enjoying the journey!<br>
-        Open to collaborating since I am a Master in being a Student.<br>
+        Web Dev<br>
+        Full - Stack<br>
     </i><br>
     <i>
         .
