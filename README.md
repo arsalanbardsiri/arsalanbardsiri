@@ -9,9 +9,9 @@
         Web Dev<br>
         Full - Stack<br>
     </i><br>
-    <i>
+<!--     <i>
         .
-    </i><br>
+    </i><br> -->
     <a href="https://www.linkedin.com/in/arsalan-bardsiri">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
