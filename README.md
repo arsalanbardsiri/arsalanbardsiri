@@ -77,7 +77,7 @@
 #### [📂 ProjectIt (Real-Time Collaboration)](https://github.com/arsalanbardsiri/ProjectIt)
 Scalable chat and study room application. Engineered to support high-concurrency WebSocket connections.
 - **Architecture:** **NestJS** backend with a **Redis** adapter for socket management.
-- **Stack:** NestJS, Socket.io, Redis, React, Docker.
+- **Stack:** NextJS, Socket.io, Redis, React, Docker.
 
 #### [📂 Bloglog (Headless CMS Engine)](https://github.com/arsalanbardsiri/bloglog)
 Federated content platform utilizing microservices.
