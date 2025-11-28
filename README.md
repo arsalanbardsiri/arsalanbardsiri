@@ -13,7 +13,7 @@
   <a href="mailto:arsalan.bardsiri@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://github.com/arsalanbardsiri/4olio">
+  <a href="https://github.com/arsalanbardsiri/portfolio-react">
     <img src="https://img.shields.io/badge/Portfolio-View_Project-black?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
 </div>
