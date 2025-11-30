@@ -70,7 +70,7 @@
 *My digital home base.* A responsive developer portfolio showcasing projects, skills, and contact info.
 - **Stack:** React, JavaScript, CSS.
 
-#### [📂 Catlender (AI-Powered Task Manager)](https://github.com/arsalanbardsiri/Catlender)
+#### [📂 Catlender V2 (AI-Powered Task Manager)](https://github.com/arsalanbardsiri/Catlender)
 *The Purr-fect AI Task Manager.* A glassmorphic productivity tool featuring a **Google Gemini** "Cat Concierge" agent.
 - **Key Features:** Intelligent schedule optimization, AI-driven daily briefings, and weather integration.
 - **Stack:** Next.js 16, Supabase, Google Gemini API, Tailwind (Shadcn UI).
@@ -80,7 +80,7 @@
 - **Key Features:** **Socket.io** with **Redis Adapter** for horizontal scaling and a custom Redis-based Job Queue for background tasks.
 - **Stack:** Next.js 16, Express, Socket.io, Redis (Upstash), Prisma.
 
-#### [📂 Blog Lounge (High-Scale Content System)](https://github.com/arsalanbardsiri/bloglog)
+#### [📂 Blog Lounge <- Bloglog V2 (High-Scale Content System)](https://github.com/arsalanbardsiri/bloglog)
 *Production-grade Distributed System.* An "Origami Notebook" aesthetic platform designed to demonstrate senior engineering principles.
 - **Key Features:** Implements **Cache-Aside Pattern** via Redis, API Rate Limiting, and End-to-End testing with Playwright.
 - **Stack:** Next.js 16, Express, Redis (Upstash), PostgreSQL (Neon), Playwright.
